@@ -76,6 +76,82 @@ Each use case also has its own README with endpoints, files, what it measured, a
 Use cases 01, 04, 06 and 08 need only the Jev key. Use cases 02, 03, 05, 07 and 09 also call
 OpenAI (the language-model, agent and specialist lanes).
 
+### Screenshots
+
+Each page opens with a written guide (what goes in, what Jev is asked, how it is built), then the
+live demo. The images below show every page as it first loads, before any demo is run. Click a
+module to expand it.
+
+**Home: the dashboard of all nine playgrounds**
+
+![Home dashboard with one card per use case](docs/screenshots/00-home.png)
+
+<details>
+<summary><b>01 What is Jev</b>: five questions on one message, the pipeline, confidence slider</summary>
+
+![01 What is Jev](docs/screenshots/01-what-is-jev.png)
+
+</details>
+
+<details>
+<summary><b>02 Jev vs LLM vs agent</b>: three lanes answering the same message</summary>
+
+![02 Jev vs LLM vs agent](docs/screenshots/02-jev-vs-llm-vs-agents.png)
+
+</details>
+
+<details>
+<summary><b>03 Jev as supervisor</b>: the LangGraph workflow with a human pause</summary>
+
+![03 Jev as supervisor](docs/screenshots/03-jev-supervisor.png)
+
+</details>
+
+<details>
+<summary><b>04 Score a whole table</b>: 1,000 reviews scored in parallel</summary>
+
+![04 Score a whole table](docs/screenshots/04-score-a-table.png)
+
+</details>
+
+<details>
+<summary><b>05 Guard the agent</b>: naive refund agent vs the Jev-guarded one</summary>
+
+![05 Guard the agent](docs/screenshots/05-guard-the-agent.png)
+
+</details>
+
+<details>
+<summary><b>06 Moderation and calibration</b>: threshold slider, confusion matrix, reliability chart</summary>
+
+![06 Moderation and calibration](docs/screenshots/06-moderation-lab.png)
+
+</details>
+
+<details>
+<summary><b>07 Model router</b>: cheap model vs strong model, routed by Jev</summary>
+
+![07 Model router](docs/screenshots/07-model-router.png)
+
+</details>
+
+<details>
+<summary><b>08 Decisions from data</b>: expense claims and an editable policy</summary>
+
+![08 Decisions from data](docs/screenshots/08-structured-decisions.png)
+
+</details>
+
+<details>
+<summary><b>09 Grounded answers</b>: plain retrieval vs Jev-gated answers</summary>
+
+![09 Grounded answers](docs/screenshots/09-grounded-answers.png)
+
+</details>
+
+To retake them, start the app (`make run`) and capture each page, for example with
+`playwright-cli goto http://localhost:8000/<slug>` then `playwright-cli screenshot --full-page`.
+
 ---
 
 ## Quick start
