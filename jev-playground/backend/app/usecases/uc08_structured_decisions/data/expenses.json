@@ -1,0 +1,20 @@
+{
+  "expenses": [
+    {"id": 1, "title": "Team lunch after the sprint review", "expected": "approve",
+     "data": {"employee": "Priya", "category": "meals", "amount": 190.0, "people": 5, "description": "Team lunch after sprint review", "receipt": true, "alcohol": false, "client_names": null, "business_purpose": null, "days_since_expense": 3}},
+    {"id": 2, "title": "Client dinner with a bottle of wine", "expected": "approve",
+     "data": {"employee": "Marcus", "category": "meals", "amount": 210.0, "people": 2, "description": "Dinner with client, includes a bottle of wine", "receipt": true, "alcohol": true, "client_names": ["Dana Whitfield"], "business_purpose": "Renewal discussion", "days_since_expense": 5}},
+    {"id": 3, "title": "Coffee, no receipt", "expected": "approve",
+     "data": {"employee": "Sam", "category": "meals", "amount": 6.0, "people": 1, "description": "Coffee before the morning meeting", "receipt": false, "alcohol": false, "client_names": null, "business_purpose": null, "days_since_expense": 2}},
+    {"id": 4, "title": "Hotel at $340 a night", "expected": "reject",
+     "data": {"employee": "Lena", "category": "lodging", "amount": 340.0, "nights": 1, "description": "Hotel near the conference venue", "receipt": true, "days_since_expense": 8}},
+    {"id": 5, "title": "Monitor stand and keyboard, no pre-approval", "expected": "refer",
+     "data": {"employee": "Tom", "category": "equipment", "amount": 180.0, "description": "Monitor stand and keyboard", "receipt": true, "manager_approved_beforehand": false, "days_since_expense": 4}},
+    {"id": 6, "title": "Business class flight", "expected": "reject",
+     "data": {"employee": "Ravi", "category": "flight", "amount": 1850.0, "class": "business", "description": "Flight to the Berlin office", "receipt": true, "days_since_expense": 10}},
+    {"id": 7, "title": "A $95 dinner for one, no receipt", "expected": "reject",
+     "data": {"employee": "Ana", "category": "meals", "amount": 95.0, "people": 1, "description": "Dinner", "receipt": false, "alcohol": false, "client_names": null, "business_purpose": null, "days_since_expense": 6}},
+    {"id": 8, "title": "Taxi submitted 45 days late", "expected": "reject",
+     "data": {"employee": "Jo", "category": "transport", "amount": 42.0, "description": "Taxi from the airport", "receipt": true, "days_since_expense": 45}}
+  ]
+}

@@ -1,0 +1,10 @@
+[
+  {"id": "dup-refund", "text": "How long does a refund for a duplicate charge take?", "answerable": true, "note": "In the refunds article: 3 to 5 business days."},
+  {"id": "po-box", "text": "Can you ship express to a PO box?", "answerable": true, "note": "In the international shipping article: express is not available to PO boxes."},
+  {"id": "plus-price", "text": "How much is Plus membership and what do I get?", "answerable": true, "note": "In the Plus article: $9 a month, free express shipping and 5% back."},
+  {"id": "bitcoin", "text": "Do you accept Bitcoin?", "answerable": true, "note": "In the payments article: no cryptocurrency."},
+  {"id": "student", "text": "Do you offer a student discount?", "answerable": false, "note": "Nothing in the help centre mentions student discounts. The honest answer is that it does not know."},
+  {"id": "phone", "text": "What is the phone number for support?", "answerable": false, "note": "The support article says there is no phone support. A made-up number would be a hallucination."},
+  {"id": "price-match", "text": "Do you price match other stores?", "answerable": false, "note": "Nothing about price matching. Stores and discounts are mentioned, so keyword search will find something close."},
+  {"id": "pickup", "text": "Can I pick up my order from your store in Boston?", "answerable": false, "note": "The shop is online-only, with no stores. Tests whether the answer notices the question assumes a store."}
+]

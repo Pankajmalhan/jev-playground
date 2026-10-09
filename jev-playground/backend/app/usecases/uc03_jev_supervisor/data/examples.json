@@ -1,0 +1,32 @@
+[
+  {
+    "id": "one-issue",
+    "title": "One issue: charged twice",
+    "text": "I was charged twice for order #1042. Please refund the extra charge.",
+    "note": "One specialist (billing) should act, then Jev should say everything is answered."
+  },
+  {
+    "id": "two-issues",
+    "title": "Two issues: shipping and a crash",
+    "text": "Where is order #1071? Also, the app crashes every time I open the settings page.",
+    "note": "Two specialists are needed. Watch Jev send the message to one, read what came back, then send it to the other."
+  },
+  {
+    "id": "billing-shipping",
+    "title": "Two issues: double charge and a late order",
+    "text": "I was charged twice for order #1042, and order #1060 still has not arrived.",
+    "note": "Billing refunds the extra charge, then shipping checks the late order."
+  },
+  {
+    "id": "unsure",
+    "title": "Too vague to route",
+    "text": "Hello, anyone there?",
+    "note": "Nothing here says which team, or even that anything is wrong. Jev is close to a coin flip, so the workflow pauses and asks you. If you pick a team and the specialist cannot do much, Jev may be unsure the case is done, and ask again."
+  },
+  {
+    "id": "sensitive",
+    "title": "Angry, with a legal threat",
+    "text": "This is the third time nobody has helped me. Fix my account access right now or my lawyer will be in touch.",
+    "note": "A message a person should handle. Jev flags it before any specialist acts."
+  }
+]

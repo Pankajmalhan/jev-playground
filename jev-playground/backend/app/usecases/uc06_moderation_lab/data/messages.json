@@ -1,0 +1,610 @@
+[
+ {
+  "id": 1,
+  "text": "You've been selected for a job paying $50/hour. First send a $100 equipment deposit.",
+  "harmful": true,
+  "kind": "scam",
+  "hard": false,
+  "ambiguous": false
+ },
+ {
+  "id": 2,
+  "text": "If you don't fix this I'm leaving a one-star review everywhere.",
+  "harmful": false,
+  "kind": "none",
+  "hard": true,
+  "ambiguous": true
+ },
+ {
+  "id": 3,
+  "text": "Shoot me an email at the usual address and I'll send the file.",
+  "harmful": false,
+  "kind": "none",
+  "hard": true,
+  "ambiguous": false
+ },
+ {
+  "id": 4,
+  "text": "Anyone interested in a free crypto airdrop? Details in my profile.",
+  "harmful": true,
+  "kind": "scam",
+  "hard": true,
+  "ambiguous": true
+ },
+ {
+  "id": 5,
+  "text": "My course changed my life, link in my bio if you want to learn more.",
+  "harmful": true,
+  "kind": "spam",
+  "hard": true,
+  "ambiguous": true
+ },
+ {
+  "id": 6,
+  "text": "Our team loves the new integration. Well done everyone.",
+  "harmful": false,
+  "kind": "none",
+  "hard": false,
+  "ambiguous": false
+ },
+ {
+  "id": 7,
+  "text": "Does the API support pagination? I'm hitting a limit of 100 results.",
+  "harmful": false,
+  "kind": "none",
+  "hard": false,
+  "ambiguous": false
+ },
+ {
+  "id": 8,
+  "text": "I got an email saying my account was suspended and asking for my password. Is that really from you? It looks like phishing.",
+  "harmful": false,
+  "kind": "none",
+  "hard": true,
+  "ambiguous": false
+ },
+ {
+  "id": 9,
+  "text": "Does anyone know how to export a report to CSV? I can't find the button.",
+  "harmful": false,
+  "kind": "none",
+  "hard": false,
+  "ambiguous": false
+ },
+ {
+  "id": 10,
+  "text": "Follow me and I'll follow back! Follow4follow! Check my profile for deals",
+  "harmful": true,
+  "kind": "spam",
+  "hard": false,
+  "ambiguous": false
+ },
+ {
+  "id": 11,
+  "text": "Is the meeting still at 3pm tomorrow?",
+  "harmful": false,
+  "kind": "none",
+  "hard": false,
+  "ambiguous": false
+ },
+ {
+  "id": 12,
+  "text": "Join us for the community meetup on Thursday, free pizza!",
+  "harmful": false,
+  "kind": "none",
+  "hard": true,
+  "ambiguous": false
+ },
+ {
+  "id": 13,
+  "text": "You people never listen. I'm done with this forum.",
+  "harmful": false,
+  "kind": "none",
+  "hard": true,
+  "ambiguous": true
+ },
+ {
+  "id": 14,
+  "text": "Thanks for the quick fix, the dashboard loads much faster now.",
+  "harmful": false,
+  "kind": "none",
+  "hard": false,
+  "ambiguous": false
+ },
+ {
+  "id": 15,
+  "text": "I'm going to kill the process and restart the server.",
+  "harmful": false,
+  "kind": "none",
+  "hard": true,
+  "ambiguous": false
+ },
+ {
+  "id": 16,
+  "text": "Careful, there's a scam going around: people claim you've won a gift card and ask for the PIN. Don't reply to them.",
+  "harmful": false,
+  "kind": "none",
+  "hard": true,
+  "ambiguous": false
+ },
+ {
+  "id": 17,
+  "text": "We're hiring! Remote engineers wanted, apply at our careers page.",
+  "harmful": false,
+  "kind": "none",
+  "hard": true,
+  "ambiguous": true
+ },
+ {
+  "id": 18,
+  "text": "This is your bank. We detected fraud. Please send your full card number and CVV to confirm your identity.",
+  "harmful": true,
+  "kind": "scam",
+  "hard": false,
+  "ambiguous": false
+ },
+ {
+  "id": 19,
+  "text": "SEO services from $49. First page ranking guaranteed. Reply for a quote.",
+  "harmful": true,
+  "kind": "spam",
+  "hard": false,
+  "ambiguous": false
+ },
+ {
+  "id": 20,
+  "text": "IRS notice: you owe back taxes. Pay now with gift cards or a warrant will be issued.",
+  "harmful": true,
+  "kind": "scam",
+  "hard": false,
+  "ambiguous": false
+ },
+ {
+  "id": 21,
+  "text": "Wanna buy a used laptop? Cheap, barely used, DM me.",
+  "harmful": true,
+  "kind": "spam",
+  "hard": true,
+  "ambiguous": true
+ },
+ {
+  "id": 22,
+  "text": "To reset your password, go to Settings, then Security. We will never ask you for your password by email.",
+  "harmful": false,
+  "kind": "none",
+  "hard": true,
+  "ambiguous": false
+ },
+ {
+  "id": 23,
+  "text": "Please stop sending me marketing emails. I have unsubscribed three times.",
+  "harmful": false,
+  "kind": "none",
+  "hard": false,
+  "ambiguous": false
+ },
+ {
+  "id": 24,
+  "text": "Great release! The new dark mode looks fantastic.",
+  "harmful": false,
+  "kind": "none",
+  "hard": false,
+  "ambiguous": false
+ },
+ {
+  "id": 25,
+  "text": "You are a worthless idiot and everyone here would be better off without you.",
+  "harmful": true,
+  "kind": "abuse",
+  "hard": false,
+  "ambiguous": false
+ },
+ {
+  "id": 26,
+  "text": "Say that again and I'll find you and make you regret it.",
+  "harmful": true,
+  "kind": "abuse",
+  "hard": false,
+  "ambiguous": false
+ },
+ {
+  "id": 27,
+  "text": "Warning: do not click links from unknown senders. Here is our guide to spotting phishing.",
+  "harmful": false,
+  "kind": "none",
+  "hard": true,
+  "ambiguous": false
+ },
+ {
+  "id": 28,
+  "text": "Wow, another outage. Great job, truly impressive. /s",
+  "harmful": false,
+  "kind": "none",
+  "hard": true,
+  "ambiguous": false
+ },
+ {
+  "id": 29,
+  "text": "I think the pricing page is confusing. Could you add a comparison table?",
+  "harmful": false,
+  "kind": "none",
+  "hard": false,
+  "ambiguous": false
+ },
+ {
+  "id": 30,
+  "text": "I know where you live. Keep posting and see what happens.",
+  "harmful": true,
+  "kind": "abuse",
+  "hard": false,
+  "ambiguous": false
+ },
+ {
+  "id": 31,
+  "text": "Best online casino bonus 200% - join today - no deposit required",
+  "harmful": true,
+  "kind": "spam",
+  "hard": false,
+  "ambiguous": false
+ },
+ {
+  "id": 32,
+  "text": "Send me 0.5 BTC and I'll send back 1 BTC within an hour. Guaranteed, many people did it.",
+  "harmful": true,
+  "kind": "scam",
+  "hard": false,
+  "ambiguous": false
+ },
+ {
+  "id": 33,
+  "text": "I hate Mondays, honestly.",
+  "harmful": false,
+  "kind": "none",
+  "hard": true,
+  "ambiguous": false
+ },
+ {
+  "id": 34,
+  "text": "FREE iPhone 15!!! Click here now bit.ly/win-big-now to claim your prize",
+  "harmful": true,
+  "kind": "spam",
+  "hard": false,
+  "ambiguous": false
+ },
+ {
+  "id": 35,
+  "text": "Can someone review my pull request when you get a chance?",
+  "harmful": false,
+  "kind": "none",
+  "hard": false,
+  "ambiguous": false
+ },
+ {
+  "id": 36,
+  "text": "Your account has been suspended. Verify your password at secure-login-check.example within 24 hours or it will be deleted.",
+  "harmful": true,
+  "kind": "scam",
+  "hard": false,
+  "ambiguous": false
+ },
+ {
+  "id": 37,
+  "text": "Shut up, nobody asked for your stupid opinion, loser.",
+  "harmful": true,
+  "kind": "abuse",
+  "hard": false,
+  "ambiguous": false
+ },
+ {
+  "id": 38,
+  "text": "Honestly this update is garbage. The old layout was far better.",
+  "harmful": false,
+  "kind": "none",
+  "hard": true,
+  "ambiguous": false
+ },
+ {
+  "id": 39,
+  "text": "lol imagine being this dumb. delete your account.",
+  "harmful": true,
+  "kind": "abuse",
+  "hard": false,
+  "ambiguous": false
+ },
+ {
+  "id": 40,
+  "text": "This is the worst customer service I've ever had. I'm disappointed and want a refund.",
+  "harmful": false,
+  "kind": "none",
+  "hard": true,
+  "ambiguous": false
+ },
+ {
+  "id": 41,
+  "text": "Send me your email and I'll DM you the discount code.",
+  "harmful": true,
+  "kind": "spam",
+  "hard": true,
+  "ambiguous": true
+ },
+ {
+  "id": 42,
+  "text": "People like you should not be allowed to have kids. Disgusting.",
+  "harmful": true,
+  "kind": "abuse",
+  "hard": false,
+  "ambiguous": false
+ },
+ {
+  "id": 43,
+  "text": "The invoice total looks wrong, it says $1,200 instead of $120.",
+  "harmful": false,
+  "kind": "none",
+  "hard": false,
+  "ambiguous": false
+ },
+ {
+  "id": 44,
+  "text": "I'm so dead, that joke killed me, can't stop laughing.",
+  "harmful": false,
+  "kind": "none",
+  "hard": true,
+  "ambiguous": false
+ },
+ {
+  "id": 45,
+  "text": "The app keeps crashing when I upload large files. Any workaround?",
+  "harmful": false,
+  "kind": "none",
+  "hard": false,
+  "ambiguous": false
+ },
+ {
+  "id": 46,
+  "text": "Buy cheap followers, likes and views. 1000 followers for $5. Message me.",
+  "harmful": true,
+  "kind": "spam",
+  "hard": false,
+  "ambiguous": false
+ },
+ {
+  "id": 47,
+  "text": "Thank you so much, you saved my day!",
+  "harmful": false,
+  "kind": "none",
+  "hard": false,
+  "ambiguous": false
+ },
+ {
+  "id": 48,
+  "text": "Hi, I'm from tech support. Install this remote tool so I can fix your virus and I'll need your login.",
+  "harmful": true,
+  "kind": "scam",
+  "hard": false,
+  "ambiguous": false
+ },
+ {
+  "id": 49,
+  "text": "Great deal on shoes today only, 50% off, link below.",
+  "harmful": true,
+  "kind": "spam",
+  "hard": true,
+  "ambiguous": true
+ },
+ {
+  "id": 50,
+  "text": "You killed it with that presentation! Absolutely crushed it.",
+  "harmful": false,
+  "kind": "none",
+  "hard": true,
+  "ambiguous": false
+ },
+ {
+  "id": 51,
+  "text": "Happy birthday Sam! Hope you have a great day.",
+  "harmful": false,
+  "kind": "none",
+  "hard": false,
+  "ambiguous": false
+ },
+ {
+  "id": 52,
+  "text": "I can't believe how slow this is. Fix it already!",
+  "harmful": false,
+  "kind": "none",
+  "hard": true,
+  "ambiguous": false
+ },
+ {
+  "id": 53,
+  "text": "Hot singles in your area are waiting. Click to chat now.",
+  "harmful": true,
+  "kind": "spam",
+  "hard": false,
+  "ambiguous": false
+ },
+ {
+  "id": 54,
+  "text": "That referee was blind, what a terrible call!",
+  "harmful": false,
+  "kind": "none",
+  "hard": true,
+  "ambiguous": false
+ },
+ {
+  "id": 55,
+  "text": "lol you're such a nerd, love you man.",
+  "harmful": false,
+  "kind": "none",
+  "hard": true,
+  "ambiguous": true
+ },
+ {
+  "id": 56,
+  "text": "Make $5000 a week from home. No experience needed. DM me for the secret.",
+  "harmful": true,
+  "kind": "spam",
+  "hard": false,
+  "ambiguous": false
+ },
+ {
+  "id": 57,
+  "text": "Check out my channel!!! subscribe subscribe subscribe www.my-channel-link.example",
+  "harmful": true,
+  "kind": "spam",
+  "hard": false,
+  "ambiguous": false
+ },
+ {
+  "id": 58,
+  "text": "Go back to your own country, we don't want your kind here.",
+  "harmful": true,
+  "kind": "abuse",
+  "hard": false,
+  "ambiguous": false
+ },
+ {
+  "id": 59,
+  "text": "Anyone want to grab lunch? I'm starving, could eat a horse.",
+  "harmful": false,
+  "kind": "none",
+  "hard": false,
+  "ambiguous": false
+ },
+ {
+  "id": 60,
+  "text": "You're a pathetic fraud and I hope you get fired.",
+  "harmful": true,
+  "kind": "abuse",
+  "hard": false,
+  "ambiguous": false
+ },
+ {
+  "id": 61,
+  "text": "Lose 20 pounds in 2 weeks with this one weird trick. Order now, limited stock!",
+  "harmful": true,
+  "kind": "spam",
+  "hard": false,
+  "ambiguous": false
+ },
+ {
+  "id": 62,
+  "text": "Our free trial runs 14 days and no credit card is needed. Details on the pricing page.",
+  "harmful": false,
+  "kind": "none",
+  "hard": true,
+  "ambiguous": false
+ },
+ {
+  "id": 63,
+  "text": "Congratulations, you won a $1000 gift card. Reply with the card's PIN to claim.",
+  "harmful": true,
+  "kind": "scam",
+  "hard": false,
+  "ambiguous": false
+ },
+ {
+  "id": 64,
+  "text": "Reminder: the office is closed on Monday for the holiday.",
+  "harmful": false,
+  "kind": "none",
+  "hard": false,
+  "ambiguous": false
+ },
+ {
+  "id": 65,
+  "text": "Verify your email to keep your account active: click the link we just sent you.",
+  "harmful": false,
+  "kind": "none",
+  "hard": true,
+  "ambiguous": true
+ },
+ {
+  "id": 66,
+  "text": "Hope you and your family get what you deserve, scum.",
+  "harmful": true,
+  "kind": "abuse",
+  "hard": false,
+  "ambiguous": false
+ },
+ {
+  "id": 67,
+  "text": "You should be ashamed of yourself for writing that.",
+  "harmful": false,
+  "kind": "none",
+  "hard": true,
+  "ambiguous": true
+ },
+ {
+  "id": 68,
+  "text": "Honestly, anyone who still uses that old tool is an idiot.",
+  "harmful": false,
+  "kind": "none",
+  "hard": true,
+  "ambiguous": true
+ },
+ {
+  "id": 69,
+  "text": "I'm so tired of these incompetent people running this place.",
+  "harmful": false,
+  "kind": "none",
+  "hard": true,
+  "ambiguous": true
+ },
+ {
+  "id": 70,
+  "text": "This damn bug is driving me crazy, I've been stuck on it for three days.",
+  "harmful": false,
+  "kind": "none",
+  "hard": true,
+  "ambiguous": false
+ },
+ {
+  "id": 71,
+  "text": "Your support agent told me to 'shut up and wait', which was rude. Please look into it.",
+  "harmful": false,
+  "kind": "none",
+  "hard": true,
+  "ambiguous": false
+ },
+ {
+  "id": 72,
+  "text": "Check out my startup's launch video, would love your feedback!",
+  "harmful": false,
+  "kind": "none",
+  "hard": true,
+  "ambiguous": true
+ },
+ {
+  "id": 73,
+  "text": "Please send money to my GoFundMe, my dog needs surgery. Link in my bio.",
+  "harmful": true,
+  "kind": "spam",
+  "hard": true,
+  "ambiguous": true
+ },
+ {
+  "id": 74,
+  "text": "I'm a prince with $4 million to move out of the country. Send $200 for fees and I'll share it with you.",
+  "harmful": true,
+  "kind": "scam",
+  "hard": false,
+  "ambiguous": false
+ },
+ {
+  "id": 75,
+  "text": "I will find whoever wrote this code and have a stern word with them. \ud83d\ude02",
+  "harmful": false,
+  "kind": "none",
+  "hard": true,
+  "ambiguous": true
+ },
+ {
+  "id": 76,
+  "text": "I need urgent help, I'm stuck abroad and lost my wallet. Please wire $500 and I'll pay you back tomorrow.",
+  "harmful": true,
+  "kind": "scam",
+  "hard": false,
+  "ambiguous": false
+ }
+]

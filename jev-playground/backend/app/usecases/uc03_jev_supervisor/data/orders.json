@@ -1,0 +1,6 @@
+[
+  {"order_id": 1042, "customer": "Maya", "item": "Wireless headphones", "amount": 59.00, "times_charged": 2, "status": "delivered", "days_since_order": 6},
+  {"order_id": 1055, "customer": "Ravi", "item": "Backpack", "amount": 89.00, "times_charged": 1, "status": "delivered", "days_since_order": 3},
+  {"order_id": 1060, "customer": "Lena", "item": "Desk lamp", "amount": 34.50, "times_charged": 1, "status": "shipped", "days_since_order": 14},
+  {"order_id": 1071, "customer": "Tom", "item": "Keyboard", "amount": 120.00, "times_charged": 1, "status": "processing", "days_since_order": 1}
+]

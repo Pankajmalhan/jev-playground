@@ -1,0 +1,14 @@
+[
+  {"id": "settings-crash", "title": "The app crashes when I open Settings",
+   "keywords": ["crash", "crashes", "settings", "opens", "open", "freezes", "closes"],
+   "body": "This is a known issue in version 4.2 on some phones. Update to version 4.2.1 from the app store, then restart the phone. If it still crashes, clear the app's cache in the phone's own settings."},
+  {"id": "export-greyed", "title": "The export button is greyed out",
+   "keywords": ["export", "greyed", "disabled", "button", "download"],
+   "body": "Export turns on once a report has finished generating. Wait for the progress bar to finish, then refresh the page. If it stays grey after two minutes, sign out and back in."},
+  {"id": "slow-sync", "title": "Syncing is slow",
+   "keywords": ["slow", "sync", "syncing", "loading", "lag"],
+   "body": "Large workspaces can take a few minutes to sync the first time. Keep the app open on Wi-Fi. Later syncs only send changes and are much quicker."},
+  {"id": "reset-password", "title": "Reset your password",
+   "keywords": ["password", "reset", "forgot", "login", "log", "locked"],
+   "body": "On the sign-in page choose 'Forgot password', enter your email, and open the link we send. The link works for 30 minutes."}
+]

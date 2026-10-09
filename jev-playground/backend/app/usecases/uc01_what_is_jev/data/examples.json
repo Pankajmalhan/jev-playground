@@ -1,0 +1,57 @@
+[
+  {
+    "id": "double-charge",
+    "title": "Charged twice, rent is due",
+    "text": "Hi - I was charged twice for my subscription this morning and the second charge is still pending. Can someone look at this today? I need the money back before rent goes out."
+  },
+  {
+    "id": "locked-out",
+    "title": "Locked out before a deadline",
+    "text": "I changed my phone and now the login code never arrives, so I can't get into my account. I have a client presentation in an hour and everything I need is in there. Please help."
+  },
+  {
+    "id": "export-greyed",
+    "title": "Export button greyed out",
+    "text": "The export button has been greyed out since the update. Not urgent, I can work around it, but wanted to flag it."
+  },
+  {
+    "id": "third-time",
+    "title": "Third message, may cancel",
+    "text": "This is the third time I've written in and nobody has answered. I'm cancelling if I don't hear back."
+  },
+  {
+    "id": "team-pricing",
+    "title": "Asking about team pricing",
+    "text": "We're a team of 40 and thinking about moving over from our current tool. Do you offer volume pricing, and could someone walk us through an annual plan?"
+  },
+  {
+    "id": "add-teammate",
+    "title": "How do I add a teammate?",
+    "text": "Quick question: how do I add a second person to our workspace? I looked in settings but couldn't find where invites are."
+  },
+  {
+    "id": "slack-idea",
+    "title": "Idea: Slack alerts",
+    "text": "It would be great if the weekly report could be posted into a Slack channel automatically. We'd use it every Monday. No rush, just an idea."
+  },
+  {
+    "id": "praise",
+    "title": "Just saying thanks",
+    "text": "Just wanted to say the new dark mode looks great. No issue, keep it up."
+  },
+  {
+    "id": "vague-broken",
+    "title": "Vague: \"it's not working\"",
+    "text": "It's not working again."
+  },
+  {
+    "id": "mixed",
+    "title": "Mixed: login and invoice",
+    "text": "I can't log in to download my invoice, and the amount on it looks wrong too."
+  },
+  {
+    "id": "vague-account",
+    "title": "Vague: question about my account",
+    "text": "Hi, quick question about my account when you get a chance."
+  }
+]

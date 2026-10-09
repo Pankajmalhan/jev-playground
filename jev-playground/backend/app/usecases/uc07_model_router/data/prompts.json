@@ -1,0 +1,14 @@
+[
+  {"id": 1, "text": "What is the capital of Australia?", "reference": "Canberra"},
+  {"id": 2, "text": "Convert 72 degrees Fahrenheit to Celsius.", "reference": "About 22.2 degrees Celsius"},
+  {"id": 3, "text": "Fix the typos: 'Their going to the stor tomorow to by some bred.'", "reference": "They're going to the store tomorrow to buy some bread."},
+  {"id": 4, "text": "Give me three synonyms for 'quick'."},
+  {"id": 5, "text": "Rewrite this politely: 'send me the report now'."},
+  {"id": 6, "text": "Summarize in two sentences: Photosynthesis is the process by which plants use sunlight, water and carbon dioxide to create oxygen and energy in the form of sugar. It takes place mostly in the leaves, in organelles called chloroplasts, and is the base of nearly every food chain on Earth."},
+  {"id": 7, "text": "Explain the difference between a mutex and a semaphore to a new engineer."},
+  {"id": 8, "text": "A farmer has 17 sheep. All but 9 die. How many are left?", "reference": "9"},
+  {"id": 9, "text": "If it takes 5 machines 5 minutes to make 5 widgets, how long would it take 100 machines to make 100 widgets?", "reference": "5 minutes"},
+  {"id": 10, "text": "Write a Python function that merges overlapping intervals, and state its time complexity."},
+  {"id": 11, "text": "A store has 20% off, then takes an extra 15% off the sale price. A customer says that is 35% off in total. Are they right? Show the calculation.", "reference": "No. The total discount is 32%, because 0.8 x 0.85 = 0.68."},
+  {"id": 12, "text": "Compare write-through and write-back caching for a read-heavy service with a 5-minute freshness requirement, and recommend one."}
+]

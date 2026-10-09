@@ -1,0 +1,30 @@
+[
+  {
+    "id": "double-charge",
+    "title": "Charged twice (order 1042)",
+    "text": "Hi, I was charged twice for order #1042. Please fix this today, I need the money back.",
+    "expected": {"department": "Billing", "refund_due": "yes"},
+    "note": "The orders table shows order 1042 was charged twice, so a refund is owed."
+  },
+  {
+    "id": "not-charged-twice",
+    "title": "Thinks they were charged twice (order 1055)",
+    "text": "I think I got charged twice for order #1055? Can you check?",
+    "expected": {"department": "Billing", "refund_due": "no"},
+    "note": "The orders table shows order 1055 was charged once, so no refund is owed. Only a lookup can tell."
+  },
+  {
+    "id": "where-is-it",
+    "title": "Where is my order (order 1071)",
+    "text": "Can you tell me where order #1071 is? No rush, just curious.",
+    "expected": {"department": "Shipping", "refund_due": "no"},
+    "note": "A shipping question. Order 1071 is still being processed. No refund involved."
+  },
+  {
+    "id": "app-crash",
+    "title": "No order at all (app crashes)",
+    "text": "The app crashes every time I open the settings page on my phone.",
+    "expected": {"department": "Technical support", "refund_due": "no"},
+    "note": "No order number, so there is nothing for the agent to look up. Does it skip the tool?"
+  }
+]
